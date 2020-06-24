@@ -33,7 +33,6 @@ const firstNames = [
   "Joe"
 ];
 
-//countOnly(firstNames, { "Jason": true, "Karima": true, "Fang": true });
 const result1 = countOnly(firstNames, { "Jason": true, "Karima": true, "Fang": true });
 console.log(result1);
 
